@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:32:38.516134+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2025-12-21T17:25:54.676597+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -68,17 +68,31 @@
           "time_info": "[01时20分 ~ 06时23分]"
         },
         {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 17时25分]"
+        },
+        {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
           "ranks": [
             2,
             4,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 17时25分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -105,19 +119,6 @@
           "time_info": "[00时29分 ~ 05时21分]"
         },
         {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 16时32分]"
-        },
-        {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/livenews/3024367",
           "source": "华尔街见闻-快讯",
@@ -132,6 +133,20 @@
           "time_info": "[12时02分 ~ 15时23分]"
         },
         {
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://wallstreetcn.com/livenews/3024384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普为何推出史上最高金额对台军售",
           "url": "https://www.toutiao.com/trending/7585013065943859238/",
           "source": "今日头条",
@@ -143,19 +158,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时19分 ~ 05时21分]"
-        },
-        {
-          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://wallstreetcn.com/livenews/3024384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 16时32分]"
         },
         {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
@@ -175,7 +177,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -218,8 +220,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 17时25分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -229,11 +231,24 @@
             4,
             9,
             11,
-            16
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 17时25分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时26分 ~ 16时32分]"
+          "time_info": "[14时37分 ~ 17时25分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -246,18 +261,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 16时32分]"
         }
       ]
     },
@@ -340,8 +343,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 17时25分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
