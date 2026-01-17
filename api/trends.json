@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T16:33:16.401316+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-01-17T17:26:10.967194+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普：这是卡尼该做的事，签协议是好事",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 16时33分]"
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 17时26分]"
         },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时25分 ~ 16时33分]"
+          "appearance_count": 15,
+          "time_info": "[07时25分 ~ 17时26分]"
         },
         {
           "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 16时33分]"
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 17时26分]"
         },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -55,6 +55,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时28分 ~ 06时27分]"
+        },
+        {
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 17时26分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -83,20 +98,6 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 16时33分]"
-        },
-        {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
           "url": "https://www.cls.cn/detail/2260948",
           "source": "财联社热门",
@@ -107,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 16时33分]"
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 17时26分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -266,6 +267,18 @@
           "time_info": "[00时36分 ~ 01时29分]"
         },
         {
+          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 17时26分]"
+        },
+        {
           "title": "美国总统特朗普：将再次与委内瑞拉“反对派”人士Machado对话。",
           "url": "https://wallstreetcn.com/livenews/3038961",
           "source": "华尔街见闻-快讯",
@@ -400,6 +413,17 @@
           "time_info": "[00时36分 ~ 01时29分]"
         },
         {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
           "title": "美国总统特朗普：如果无法在最高法院赢得关税官司，将是“国家的”耻辱。",
           "url": "https://wallstreetcn.com/livenews/3038918",
           "source": "华尔街见闻-快讯",
@@ -458,17 +482,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时29分]"
-        },
-        {
-          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "美国总统特朗普：现在没有理由在明尼苏达州使用叛乱法。",
@@ -540,6 +553,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普被曝2017年就想入侵委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7595827633294147635/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "美国财长贝森特谈及白宫顾问哈塞特不会去美联储，声称：这是总统特朗普的特权。 特朗普并没有告诉我“他自己对美联储主席人选的想法”。",
@@ -791,8 +815,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时25分 ~ 16时33分]"
+          "appearance_count": 15,
+          "time_info": "[07时25分 ~ 17时26分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -819,8 +843,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 16时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 17时26分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -942,8 +966,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时33分]"
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 17时26分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
