@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T12:37:09.639812+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-01-26T13:59:20.724436+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 12时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 13时59分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -145,22 +145,23 @@
           "time_info": "[00时53分 ~ 05时36分]"
         },
         {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时59分]"
+        },
+        {
           "title": "一天过去，特朗普从愤怒变成“非常难过”",
           "url": "https://news.ifeng.com/c/8qDlBtHaTST",
           "source": "凤凰网",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -320,8 +321,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时59分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -357,6 +358,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     },
