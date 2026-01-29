@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T04:58:46.951479+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-01-30T05:56:31.576977+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -96,15 +96,15 @@
           "time_info": "01时06分"
         },
         {
-          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
-          "url": "https://wallstreetcn.com/livenews/3046673",
-          "source": "华尔街见闻-快讯",
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
           "ranks": [
-            5
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时56分]"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
@@ -131,15 +131,16 @@
           "time_info": "[03时43分 ~ 04时58分]"
         },
         {
-          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
-          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
-          "source": "凤凰网",
+          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
+          "url": "https://wallstreetcn.com/livenews/3046673",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时56分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -149,8 +150,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时56分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（回应特朗普关于普京同意停火一周的声明）我们期待协议得到落实，缓和举措有助于在结束战争方面取得进展。",
@@ -252,7 +253,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -458,7 +459,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -468,8 +469,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时56分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -479,8 +480,96 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时56分]"
+        },
+        {
+          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3046691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050645865800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050643601800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "Robinhood(HOOD.O)美股盘后涨3%。",
+          "url": "https://flash.jin10.com/detail/20260130050229767800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（1月29日）），美国科技股七巨头（Magnificent 7）指数跌0.90%，报207.72点，美股盘初持续下跌，北京时间23:55刷新日低至202.72点，随后逐步收复失地。 “超大”市值科技股指数跌0.58%，报396.22点。 成分股Meta收涨10%，创7月以来最大单日涨幅，微软重挫10%，市值蒸发3570亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美国考虑利用美股经纪商Robinhood为儿童设立“特朗普账户”。",
+          "url": "https://flash.jin10.com/detail/20260130050156352800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 微软跌近10%",
+          "url": "https://flash.jin10.com/detail/20260130050123427800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3046680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -508,7 +597,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -520,19 +609,53 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时56分]"
         },
         {
           "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3046674",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时56分]"
+        },
+        {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时56分"
+        },
+        {
+          "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20260130044452824800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130043431786800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         }
       ]
     },
@@ -550,8 +673,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时56分]"
         }
       ]
     },
@@ -564,11 +687,12 @@
           "url": "https://wallstreetcn.com/livenews/3046676",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时56分]"
         }
       ]
     }
