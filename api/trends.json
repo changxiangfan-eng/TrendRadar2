@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T19:40:39.884067+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-01-31T21:54:40.692103+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时05分 ~ 19时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时05分 ~ 21时54分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时05分 ~ 19时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时05分 ~ 21时54分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -106,11 +106,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时59分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[06时59分 ~ 21时54分]"
+        },
+        {
+          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
+          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 21时54分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -124,16 +137,18 @@
           "time_info": "[07时53分 ~ 19时40分]"
         },
         {
-          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
-          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
+          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
+          "url": "https://wallstreetcn.com/articles/3764623",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            10,
+            8,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 21时54分]"
         },
         {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
@@ -145,20 +160,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时05分 ~ 07时53分]"
-        },
-        {
-          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
-          "url": "https://wallstreetcn.com/articles/3764623",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 19时40分]"
         },
         {
           "title": "斯塔默回击特朗普涉中英言论",
@@ -229,6 +230,20 @@
           "time_info": "[00时05分 ~ 06时59分]"
         },
         {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 21时54分]"
+        },
+        {
           "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
           "url": "https://news.ifeng.com/c/8qLLfsjtQ3f",
           "source": "凤凰网",
@@ -252,6 +267,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
+          "url": "https://wallstreetcn.com/livenews/3047706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "特朗普的美联储主席提名人出炉，两年期美债收益率跌超3.4个基点",
           "url": "https://wallstreetcn.com/livenews/3047571",
           "source": "华尔街见闻-快讯",
@@ -263,17 +289,27 @@
           "time_info": "05时02分"
         },
         {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
+          "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
+          "url": "https://flash.jin10.com/detail/20260131213021035800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7,
-            6
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时51分 ~ 19时40分]"
+          "time_info": "[17时01分 ~ 21时54分]"
         },
         {
           "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
@@ -336,18 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 05时02分]"
-        },
-        {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时01分 ~ 19时40分]"
         },
         {
           "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
@@ -436,6 +460,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 05时02分]"
+        },
+        {
+          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
+          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时54分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
@@ -630,17 +665,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
-          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
           "title": "美国参议院民主党党鞭Durbin就总统特朗普的美联储主席提名人沃什发表声明：质疑沃什是否有“胆量”指出特朗普的政策错误。 沃什具备美联储主席所需要的教育背景、训练、经验。 沃什对美联储独立性的看法将决定特朗普是否选对了人。",
           "url": "https://wallstreetcn.com/livenews/3047560",
           "source": "华尔街见闻-快讯",
@@ -669,7 +693,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -863,8 +887,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 21时54分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -896,11 +920,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 21时54分]"
         },
         {
           "title": "美股收盘集体下跌黄金白银股大幅下挫",
@@ -1019,6 +1044,92 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
+          "url": "https://www.zhihu.com/question/2000516785095537569",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 14时05分]"
+        },
+        {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时54分]"
+        },
+        {
+          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3047621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 15时51分]"
+        },
+        {
+          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
+          "url": "https://flash.jin10.com/detail/20260131204002785800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
+          "url": "https://flash.jin10.com/detail/20260131203337844800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
+          "url": "https://wallstreetcn.com/livenews/3047693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
+          "url": "https://flash.jin10.com/detail/20260131203248230800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -1031,8 +1142,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时54分]"
         },
         {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
@@ -1070,47 +1181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 05时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
-          "url": "https://www.zhihu.com/question/2000516785095537569",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 14时05分]"
-        },
-        {
-          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
-          "url": "https://flash.jin10.com/detail/20260131190934573800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3047621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时51分]"
         }
       ]
     },
