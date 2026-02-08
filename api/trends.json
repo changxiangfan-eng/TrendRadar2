@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T05:55:54.681145+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-02-09T07:01:41.495723+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             4,
             10,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
@@ -29,11 +30,38 @@
             6,
             5,
             11,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时01分]"
+        },
+        {
+          "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
+          "url": "https://flash.jin10.com/detail/20260208232345943800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            11,
+            17,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普被白头海雕打脸视频再度火了",
+          "url": "https://www.toutiao.com/trending/7603686321965662214/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "特朗普的财政部长建议：司法部调查与参议院启动凯文·沃什的提名听证会同时推进",
@@ -41,11 +69,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：正从明尼阿波利斯撤走（国土安全部/DHS）官员，他们在当地做得不错。",
@@ -53,11 +82,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普谈及通胀问题，宣称：我解决了问题。 对经济现状感到骄傲。",
@@ -70,31 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时55分]"
-        },
-        {
-          "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
-          "url": "https://flash.jin10.com/detail/20260208232345943800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            11,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
-        },
-        {
-          "title": "特朗普被白头海雕打脸视频再度火了",
-          "url": "https://www.toutiao.com/trending/7603686321965662214/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
         },
         {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
@@ -122,8 +127,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -132,11 +137,12 @@
           "ranks": [
             1,
             7,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -165,8 +171,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时01分]"
         }
       ]
     },
