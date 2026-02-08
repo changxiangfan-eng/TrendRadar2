@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T15:53:13.464981+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-02-08T17:03:07.570125+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 15时53分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 17时03分]"
         },
         {
           "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
@@ -216,6 +216,18 @@
           "time_info": "[13时46分 ~ 15时53分]"
         },
         {
+          "title": "学者：特朗普羞辱奥巴马引众怒",
+          "url": "https://www.toutiao.com/trending/7604317625304223283/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时03分]"
+        },
+        {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
           "url": "https://flash.jin10.com/detail/20260208105726564800",
           "source": "金十数据",
@@ -238,17 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时46分 ~ 15时53分]"
-        },
-        {
-          "title": "学者：特朗普羞辱奥巴马引众怒",
-          "url": "https://www.toutiao.com/trending/7604317625304223283/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -298,8 +299,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 15时53分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 17时03分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -317,11 +318,12 @@
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时03分]"
         }
       ]
     },
@@ -352,11 +354,12 @@
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时03分]"
         }
       ]
     }
