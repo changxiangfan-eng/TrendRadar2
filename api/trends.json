@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T15:52:30.171649+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-02-15T17:03:52.676268+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -109,19 +109,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 15时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 17时03分]"
         },
         {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
           "url": "https://www.toutiao.com/trending/7606051537617649691/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时03分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -130,20 +131,54 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时03分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
           "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时03分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时52分"
+          "time_info": "17时03分"
+        },
+        {
+          "title": "奥巴马回应被特朗普恶搞成猴",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%B4%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.toutiao.com/trending/7606703474663063593/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     },
@@ -184,11 +219,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 17时03分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -223,8 +259,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 15时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 17时03分]"
         }
       ]
     },
@@ -242,8 +278,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 15时52分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 17时03分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
