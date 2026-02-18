@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T16:03:26.744217+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-02-18T19:26:50.607693+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时07分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
@@ -170,6 +181,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
           "url": "https://wallstreetcn.com/livenews/3056209",
           "source": "华尔街见闻-快讯",
@@ -190,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
+          "url": "https://wallstreetcn.com/livenews/3056288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "特朗普：美日贸易协议已正式启动 日本对美投资计划将涵盖三大战略项目",
@@ -220,9 +253,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "市场消息：德国计划大幅扩展其外国情报机构的权力，担心特朗普可能会停止情报共享。",
+          "url": "https://flash.jin10.com/detail/20260218185830971800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
@@ -245,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-18）",
+          "url": "https://flash.jin10.com/detail/20260218185306479800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
@@ -305,7 +360,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -317,8 +372,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时07分 ~ 16时03分]"
+          "appearance_count": 9,
+          "time_info": "[02时07分 ~ 19时26分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -329,8 +384,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 19时26分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -384,8 +439,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 16时03分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 19时26分]"
         },
         {
           "title": "日用品ETF收跌超1.4%，领跌美股行业ETF，标普能源板块跌约1.4%",
@@ -397,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -496,13 +562,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3056266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
         {
           "title": "谷歌I/O开发者大会将于5月19日至20日举办",
           "url": "https://flash.jin10.com/detail/20260218065832449800",
