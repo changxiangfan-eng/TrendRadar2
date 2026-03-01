@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T17:28:55.323025+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-03-01T18:23:44.069299+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
@@ -19,20 +19,6 @@
           "time_info": "[00时24分 ~ 10时04分]"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时04分 ~ 17时28分]"
-        },
-        {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
           "url": "https://wallstreetcn.com/articles/3766454",
           "source": "华尔街见闻",
@@ -42,8 +28,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 18时23分]"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 18时23分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -68,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时04分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 18时23分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -889,8 +890,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 17时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 18时23分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
