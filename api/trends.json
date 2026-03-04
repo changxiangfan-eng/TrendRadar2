@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T18:35:08.845799+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-03-04T19:28:58.121921+08:00",
+  "total_titles_processed": 1834,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 18时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 19时28分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -54,11 +54,12 @@
             19,
             21,
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时44分 ~ 18时35分]"
+          "appearance_count": 24,
+          "time_info": "[00时44分 ~ 19时28分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -72,6 +73,17 @@
           "time_info": "[01时41分 ~ 07时25分]"
         },
         {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时43分 ~ 19时28分]"
+        },
+        {
           "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -81,17 +93,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时36分 ~ 17时39分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时43分 ~ 18时35分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -211,6 +212,17 @@
           "time_info": "[09时51分 ~ 14时43分]"
         },
         {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 19时28分]"
+        },
+        {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
           "url": "https://wallstreetcn.com/livenews/3062981",
           "source": "华尔街见闻-快讯",
@@ -247,17 +259,6 @@
           "time_info": "[01时42分 ~ 02时44分]"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 18时35分]"
-        },
-        {
           "title": "美伊战火引爆油市？特朗普：敌对行动结束后 油价将回落！",
           "url": "https://www.cls.cn/detail/2301958",
           "source": "财联社热门",
@@ -267,6 +268,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时36分 ~ 17时39分]"
+        },
+        {
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 19时28分]"
         },
         {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
@@ -375,17 +388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时31分]"
-        },
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 18时35分]"
         },
         {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
@@ -882,11 +884,12 @@
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 18时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 19时28分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -929,11 +932,12 @@
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 18时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 19时28分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -1125,7 +1129,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
