@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T15:37:37.462672+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-03-06T16:35:33.636334+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时02分 ~ 15时37分]"
+          "appearance_count": 14,
+          "time_info": "[02时02分 ~ 16时35分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时35分]"
         },
         {
           "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
@@ -60,11 +60,12 @@
           "ranks": [
             6,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时35分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -112,6 +113,17 @@
           "time_info": "[07时50分 ~ 15时37分]"
         },
         {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时35分]"
+        },
+        {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
           "url": "https://flash.jin10.com/detail/20260306015308180800",
           "source": "金十数据",
@@ -156,17 +168,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时37分]"
-        },
-        {
           "title": "美国国防部长赫格塞思：（被问及特朗普有关“有权决定伊朗下一任领导人”的言论）美国并未扩大其在伊朗的军事目标。",
           "url": "https://flash.jin10.com/detail/20260306061952883800",
           "source": "金十数据",
@@ -203,6 +204,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 06时30分]"
+        },
+        {
+          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
+          "url": "https://www.cls.cn/detail/2304532",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 16时35分]"
         },
         {
           "title": "美国24州联合起诉特朗普政府",
@@ -267,18 +281,6 @@
           "time_info": "[06时30分 ~ 07时50分]"
         },
         {
-          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
-          "url": "https://www.cls.cn/detail/2304532",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时37分]"
-        },
-        {
           "title": "特朗普：即将采取进一步措施缓解油市压力",
           "url": "https://flash.jin10.com/detail/20260306061148335800",
           "source": "金十数据",
@@ -315,6 +317,17 @@
           "time_info": "[06时30分 ~ 07时50分]"
         },
         {
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 16时35分]"
+        },
+        {
           "title": "美国总统特朗普：（被问及泽连斯基提出协助抵御伊朗无人机的提议）我会接受任何国家的任何援助。",
           "url": "https://flash.jin10.com/detail/20260306014749134800",
           "source": "金十数据",
@@ -346,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
+          "url": "https://www.cls.cn/detail/2304727",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普将于美东时间周五14:30（北京时间次日03:30）会见国防部长赫格塞思和内政部长伯格姆。",
@@ -423,17 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
-        },
-        {
-          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
         },
         {
           "title": "特朗普政府正在权衡降低油价的所有选项",
@@ -728,6 +741,17 @@
           "time_info": "[02时02分 ~ 06时30分]"
         },
         {
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 16时35分]"
+        },
+        {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -737,17 +761,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时02分 ~ 06时30分]"
-        },
-        {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 15时37分]"
         },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
@@ -921,8 +934,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时35分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
