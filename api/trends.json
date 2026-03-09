@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T19:34:34.341633+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2026-03-09T20:58:21.622065+08:00",
+  "total_titles_processed": 1718,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时56分 ~ 19时34分]"
+          "appearance_count": 13,
+          "time_info": "[09时56分 ~ 20时58分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -168,8 +168,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 20时58分]"
         },
         {
           "title": "特朗普回应油价暴涨",
@@ -254,6 +254,18 @@
           "time_info": "[04时24分 ~ 06时21分]"
         },
         {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 20时58分]"
+        },
+        {
           "title": "美国驻联合国大使：特朗普总统希望伊朗领导人不会威胁美国或该地区的盟友。",
           "url": "https://flash.jin10.com/detail/20260309010309555800",
           "source": "金十数据",
@@ -291,6 +303,17 @@
           "time_info": "[15时57分 ~ 17时47分]"
         },
         {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 20时58分]"
+        },
+        {
           "title": "特朗普称适时结束对伊军事行动",
           "url": "https://www.douyin.com/hot/2423798",
           "source": "抖音",
@@ -300,29 +323,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时01分 ~ 16时42分]"
-        },
-        {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时34分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时34分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：由于特朗普鲁莽选择战争，油价飙升至多年来的最高水平。而他根本不在乎。今天，我要求特朗普立即从战略石油储备中释放石油，以减轻美国人加油的压力。",
@@ -581,7 +581,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
