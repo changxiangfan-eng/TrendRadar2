@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T17:41:00.866525+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-03-11T18:37:07.776933+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 17时41分]"
+          "appearance_count": 12,
+          "time_info": "[12时08分 ~ 18时37分]"
         },
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -111,8 +111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 17时41分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 18时37分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -124,8 +124,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 17时41分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 18时37分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -136,8 +136,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 17时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 18时37分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -160,6 +160,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时47分 ~ 14时51分]"
+        },
+        {
+          "title": "美以伊战争｜美媒：特朗普在美以伊战争中的致命误判",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 18时37分]"
         },
         {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
@@ -366,6 +377,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-11）",
+          "url": "https://flash.jin10.com/detail/20260311181232946800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "美媒：特朗普关于伊朗的言论前后矛盾，毫无一致性",
           "url": "https://flash.jin10.com/detail/20260311051553431800",
           "source": "金十数据",
@@ -478,8 +500,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 17时41分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 18时37分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
