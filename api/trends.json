@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T09:53:25.479227+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-03-13T12:11:58.439704+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -52,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 09时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 12时11分]"
         },
         {
           "title": "中方回应特朗普将对华新贸易调查",
@@ -67,16 +67,28 @@
           "time_info": "04时32分"
         },
         {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
           "ranks": [
             12,
-            1
+            1,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 09时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 12时11分]"
         },
         {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
@@ -107,11 +119,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 09时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 12时11分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -126,6 +139,18 @@
           "time_info": "[04时32分 ~ 05时32分]"
         },
         {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 12时11分]"
+        },
+        {
           "title": "贝森特说不会因为战争成本跟特朗普对峙",
           "url": "https://flash.jin10.com/detail/20260313045000353800",
           "source": "金十数据",
@@ -136,6 +161,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 12时11分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们主动出击，以前所未有的力量进行强力打击。我们与美国建立了前所未有的联盟，与我的个人朋友、总统唐纳德·特朗普紧密合作。",
@@ -196,35 +233,13 @@
           "time_info": "00时59分"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
           "title": "国际能源署将释放 4 亿桶战略石油储备，特朗普授权美国能源部释放 1.72 亿桶原油，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2015341795039475528",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -235,7 +250,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -279,7 +294,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -334,7 +349,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         }
@@ -342,7 +357,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -377,8 +392,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时23分 ~ 09时53分]"
+          "appearance_count": 6,
+          "time_info": "[06时23分 ~ 12时11分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -398,9 +413,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -588,11 +614,12 @@
           "url": "https://www.zhihu.com/question/1963698332040929828",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 12时11分]"
         },
         {
           "title": "市场消息：Anthropic将于今年晚些时候推出首个Claude技术认证。",
