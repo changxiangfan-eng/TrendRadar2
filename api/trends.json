@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T17:53:06.272874+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-03-18T18:51:38.796077+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时31分 ~ 17时53分]"
+          "appearance_count": 11,
+          "time_info": "[06时31分 ~ 18时51分]"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -107,6 +107,18 @@
           "time_info": "[15时51分 ~ 16时45分]"
         },
         {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 18时51分]"
+        },
+        {
           "title": "中方回应特朗普确认推迟访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A1%AE%E8%AE%A4%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -131,6 +143,17 @@
           "time_info": "[07时31分 ~ 15时51分]"
         },
         {
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时51分]"
+        },
+        {
           "title": "中方回应特朗普称推迟访华",
           "url": "https://www.douyin.com/hot/2435021",
           "source": "抖音",
@@ -141,29 +164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时51分 ~ 16时45分]"
-        },
-        {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 17时53分]"
-        },
-        {
-          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
-          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
@@ -308,6 +308,29 @@
           "time_info": "[14时02分 ~ 16时45分]"
         },
         {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时51分]"
+        },
+        {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时51分]"
+        },
+        {
           "title": "为何不谴责美以？高市早苗：因为我要见特朗普",
           "url": "https://news.ifeng.com/c/8raajLUudf0",
           "source": "凤凰网",
@@ -317,6 +340,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时51分 ~ 16时45分]"
+        },
+        {
+          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
+          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时51分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时51分]"
         },
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -343,17 +389,6 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
-        },
-        {
           "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
           "url": "https://news.ifeng.com/c/8radF7mAvMh",
           "source": "凤凰网",
@@ -363,17 +398,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 14时02分]"
-        },
-        {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "美国总统特朗普谈及与爱尔兰的贸易赤字，宣称：（爱尔兰）需要购买我们的能源。",
@@ -397,17 +421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 14时02分]"
-        },
-        {
-          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
-          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "特朗普称对北约很失望",
@@ -446,17 +459,6 @@
           "time_info": "[05时36分 ~ 06时31分]"
         },
         {
-          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
-        },
-        {
           "title": "特朗普谈反恐中心主任辞职：他走人是好事",
           "url": "https://flash.jin10.com/detail/20260318032156939800",
           "source": "金十数据",
@@ -488,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "特朗普确认推迟访华，外交部：中美将继续就此事保持沟通",
@@ -681,7 +694,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -934,11 +947,12 @@
           "ranks": [
             3,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 17时53分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 18时51分]"
         }
       ]
     }
