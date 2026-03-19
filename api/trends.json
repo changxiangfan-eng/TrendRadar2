@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T12:31:25.764146+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-03-19T13:57:38.169893+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 12时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 13时57分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -72,8 +72,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 12时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 13时57分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -89,6 +89,17 @@
           "time_info": "[00时15分 ~ 07时47分]"
         },
         {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 13时57分]"
+        },
+        {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
           "url": "https://www.cls.cn/detail/2316670",
           "source": "财联社热门",
@@ -101,17 +112,6 @@
           "time_info": "[00时15分 ~ 06时31分]"
         },
         {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
-        },
-        {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
           "url": "https://news.ifeng.com/c/8rcHthVvS8A",
           "source": "凤凰网",
@@ -119,8 +119,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 13时57分]"
         },
         {
           "title": "法国总统马克龙：刚刚与卡塔尔埃米尔和特朗普通话，讨论了当天针对伊朗和卡塔尔天然气生产设施的袭击事件。各方的共同利益在于，应立即实施暂停针对民用基础设施（尤其是能源和供水基础设施）的打击行动。",
@@ -140,7 +140,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -154,6 +154,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 13时57分]"
         },
         {
           "title": "美媒：特朗普希望以色列暂缓进一步打击伊朗能源设施",
@@ -178,18 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时00分 ~ 03时13分]"
-        },
-        {
-          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 12时31分]"
         },
         {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
@@ -286,8 +287,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 12时31分]"
+          "appearance_count": 6,
+          "time_info": "[07时47分 ~ 13时57分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -522,8 +523,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 12时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 13时57分]"
         }
       ]
     },
