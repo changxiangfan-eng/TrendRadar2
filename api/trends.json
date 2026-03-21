@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T20:43:04.981361+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-03-21T21:41:30.393109+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时27分 ~ 20时43分]"
+          "appearance_count": 15,
+          "time_info": "[07时27分 ~ 21时41分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -47,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时26分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[06时26分 ~ 21时41分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时42分 ~ 20时43分]"
+          "appearance_count": 25,
+          "time_info": "[00时42分 ~ 21时41分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时04分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 21时41分]"
         },
         {
           "title": "美日领导人会晤，特朗普只想聊伊朗",
@@ -172,8 +172,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 21时41分]"
         },
         {
           "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
@@ -210,6 +210,28 @@
           "time_info": "07时27分"
         },
         {
+          "title": "伊朗官员誓言要给特朗普“一个教训”",
+          "url": "https://flash.jin10.com/detail/20260321211515397800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
+          "url": "https://flash.jin10.com/detail/20260321211140614800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "【美国防官员已为向伊朗部署地面部队制定详尽方案】3月20日获悉，美国国防部官员已为向伊朗部署美国地面部队制定了详尽的准备方案。据悉，特朗普一直在权衡是否要在该地区部署地面部队。目前尚不清楚他会在何种情况下授权动用地面部队。（央视）",
           "url": "https://wallstreetcn.com/livenews/3074307",
           "source": "华尔街见闻-快讯",
@@ -219,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "江学勤教授预警：特朗普或启动全美征兵",
+          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时41分]"
         },
         {
           "title": "特朗普：正考虑逐步降级对伊朗的军事行动",
@@ -317,17 +350,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时27分]"
-        },
-        {
-          "title": "江学勤教授预警：特朗普或启动全美征兵",
-          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 20时43分]"
         },
         {
           "title": "据Politico：联合国秘书长表示，他正与特朗普在加沙的和平委员会合作。",
@@ -523,6 +545,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
+          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "消息人士：特朗普的“和平委员会”已向哈马斯发出解除武装方案",
           "url": "https://flash.jin10.com/detail/20260321175438969800",
           "source": "金十数据",
@@ -712,8 +745,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 21时41分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -741,8 +774,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时27分 ~ 20时43分]"
+          "appearance_count": 15,
+          "time_info": "[07时27分 ~ 21时41分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -772,8 +805,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时04分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 21时41分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -872,8 +905,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 21时41分]"
         },
         {
           "title": "美股三大指数收跌 超微电脑跌超30%",
@@ -1051,22 +1084,24 @@
           "url": "https://wallstreetcn.com/livenews/3074453",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时41分]"
         },
         {
           "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
           "url": "https://flash.jin10.com/detail/20260321200202568800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时41分]"
         }
       ]
     }
