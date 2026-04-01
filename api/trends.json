@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T19:52:33.846518+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2026-04-01T21:16:56.820849+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 19时52分]"
+          "appearance_count": 11,
+          "time_info": "[07时32分 ~ 21时16分]"
         },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
@@ -80,6 +80,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时10分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
+          "url": "https://wallstreetcn.com/articles/3768931",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时23分 ~ 21时16分]"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -156,19 +170,6 @@
           "time_info": "[13时22分 ~ 19时14分]"
         },
         {
-          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
-          "url": "https://wallstreetcn.com/articles/3768931",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时23分 ~ 19时52分]"
-        },
-        {
           "title": "特朗普希望4月6日前与伊朗签协议",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%8C%E6%9C%9B4%E6%9C%886%E6%97%A5%E5%89%8D%E4%B8%8E%E4%BC%8A%E6%9C%97%E7%AD%BE%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -180,6 +181,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时55分 ~ 06时33分]"
+        },
+        {
+          "title": "马克龙访日暗讽特朗普",
+          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 21时16分]"
         },
         {
           "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
@@ -220,17 +232,6 @@
           "time_info": "[00时10分 ~ 19时52分]"
         },
         {
-          "title": "马克龙访日暗讽特朗普",
-          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 19时52分]"
-        },
-        {
           "title": "战争烂尾，特朗普要跑了",
           "url": "https://news.ifeng.com/c/8rxhKnCdBaV",
           "source": "凤凰网",
@@ -264,6 +265,18 @@
           "time_info": "06时33分"
         },
         {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时01分 ~ 21时16分]"
+        },
+        {
           "title": "特朗普将签署行政令限制邮寄选票",
           "url": "https://flash.jin10.com/detail/20260401052146266800",
           "source": "金十数据",
@@ -273,6 +286,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们很快就会撤出伊朗，但不会给出时间表。",
+          "url": "https://flash.jin10.com/detail/20260401211205687800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美国总统特朗普：我们还有一些目标未击中；如果有必要，我们会回来进行定点打击。",
+          "url": "https://flash.jin10.com/detail/20260401211137581800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事",
@@ -308,6 +343,17 @@
           "time_info": "10时24分"
         },
         {
+          "title": "美国总统特朗普：伊朗既不会拥有核武器，也不想要核武器。不在乎核材料问题；将通过卫星进行监控。",
+          "url": "https://flash.jin10.com/detail/20260401211128527800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "特朗普将于美国东部时间周三上午10时出席最高法院口头辩论。",
           "url": "https://wallstreetcn.com/livenews/3080543",
           "source": "华尔街见闻-快讯",
@@ -317,18 +363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
-        },
-        {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 19时52分]"
         },
         {
           "title": "特朗普被曝希望快速结束战争",
@@ -510,6 +544,18 @@
           "time_info": "[13时22分 ~ 15时17分]"
         },
         {
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时16分]"
+        },
+        {
           "title": "特朗普将发表全国讲话，就伊朗问题发布“重要更新”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32869490",
           "source": "澎湃新闻",
@@ -554,6 +600,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "特朗普称伊朗请求美国停火",
+          "url": "https://www.toutiao.com/trending/7623249911446224902/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "特朗普向英国和法国等提建议",
           "url": "https://wallstreetcn.com/livenews/3080278",
           "source": "华尔街见闻-快讯",
@@ -563,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "特朗普称伊朗新政权总统请求停火",
+          "url": "https://wallstreetcn.com/livenews/3080930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普考虑召集特别会议 解决国土安全部资金危机",
@@ -585,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "美国总统特朗普：祝贺日产及其美洲公司主席Christian Meunier在美国取得的巨大成功。在关税的影响下，他们将大部分生产转移到我们伟大的国家，这个结果真是太棒了。",
+          "url": "https://flash.jin10.com/detail/20260401210852340800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普：美盟友必须“介入和处理”霍尔木兹海峡问题",
@@ -620,6 +699,28 @@
           "time_info": "15时17分"
         },
         {
+          "title": "【油价短线走低，特朗普称霍尔木兹海峡开放后，将考虑停火】布伦特原油5分钟内下跌1.25美元/桶，报100.65美元/桶；WTI原油5分钟内下跌1.11美元/桶，报98.88美元/桶。特朗普称霍尔木兹海峡开放后，将考虑停火。",
+          "url": "https://wallstreetcn.com/livenews/3080925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "特朗普：伊朗已向美国请求停火",
+          "url": "https://www.douyin.com/hot/2451793",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "据纽约邮报：美国总统特朗普补充道，也许我们会让议员们过复活节。",
           "url": "https://flash.jin10.com/detail/20260331235111109800",
           "source": "金十数据",
@@ -629,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "英国首相回应特朗普要退出北约",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E9%80%80%E5%87%BA%E5%8C%97%E7%BA%A6%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "美总统特朗普签署行政令，限制邮寄投票",
@@ -695,17 +807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔必须尽快离职。",
@@ -898,7 +999,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -908,8 +1009,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 19时52分]"
+          "appearance_count": 11,
+          "time_info": "[07时32分 ~ 21时16分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -932,8 +1033,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时32分 ~ 19时52分]"
+          "appearance_count": 13,
+          "time_info": "[06时32分 ~ 21时16分]"
         },
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -1095,6 +1196,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3080924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260401040550571800",
           "source": "金十数据",
@@ -1139,6 +1251,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "美元指数短线小幅走低，现报99.51。美股期货短线小幅走低，纳斯达克100指数期货涨幅收窄至0.9%。美国10年期国债收益率短线拉升，现报4.292%。现货黄金短线拉升约7美元，现报4743.31美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3080918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "抄底买家要当心？顶级经济学家警告：务必避开美股大盘！",
           "url": "https://flash.jin10.com/detail/20260401143225343800",
           "source": "金十数据",
@@ -1161,6 +1284,17 @@
           "time_info": "15时17分"
         },
         {
+          "title": "耐克(NKE.N)美股盘前进一步下挫，跌幅扩大至12%，业绩展望令人失望。",
+          "url": "https://flash.jin10.com/detail/20260401210524549800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "耐克美股盘前跌超9%，此前公司意外下调第四财季销售额预期。",
           "url": "https://wallstreetcn.com/livenews/3080739",
           "source": "华尔街见闻-快讯",
@@ -1170,12 +1304,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "美国3月ADP就业数据公布后，美元指数、美股期货短线波动不大",
+          "url": "https://wallstreetcn.com/livenews/3080904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -1201,8 +1346,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 19时52分]"
+          "appearance_count": 11,
+          "time_info": "[07时32分 ~ 21时16分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -1237,11 +1382,26 @@
           "ranks": [
             8,
             10,
-            12
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时17分 ~ 21时16分]"
+        },
+        {
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            22,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时17分 ~ 19时52分]"
+          "time_info": "[17时01分 ~ 21时16分]"
         },
         {
           "title": "Anthropic意外泄露了Claude AI智能体的源代码",
@@ -1255,17 +1415,27 @@
           "time_info": "17时02分"
         },
         {
-          "title": "UP主复现Claude Code代码漏洞",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            7,
-            22
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 19时52分]"
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时16分]"
+        },
+        {
+          "title": "从泄露源码扒出Claude隐藏彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "Claude Code泄漏代码完整逆向",
@@ -1274,18 +1444,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "Claude Code源码分析与复刻实现",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
