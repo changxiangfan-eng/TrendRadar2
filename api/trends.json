@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T17:06:54.210416+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-04-06T18:54:50.573286+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 17时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 18时54分]"
         },
         {
           "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
@@ -59,11 +59,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 17时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 18时54分]"
         },
         {
           "title": "美以伊战争丨特朗普：能在4月6日前与伊朗达成协议",
@@ -113,8 +114,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 17时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 18时54分]"
+        },
+        {
+          "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
+          "url": "https://wallstreetcn.com/articles/3769257",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 18时54分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -193,17 +207,17 @@
           "time_info": "[10时12分 ~ 17时06分]"
         },
         {
-          "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
-          "url": "https://wallstreetcn.com/articles/3769257",
+          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3769299",
           "source": "华尔街见闻",
           "ranks": [
+            5,
             4,
-            2,
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时12分 ~ 17时06分]"
+          "time_info": "[13时22分 ~ 18时54分]"
         },
         {
           "title": "特朗普威胁伊朗：炸毁一切，接管石油",
@@ -249,19 +263,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时32分]"
-        },
-        {
-          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3769299",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 17时06分]"
         },
         {
           "title": "伊朗议长：特朗普的鲁莽举动正将美国拖入地狱",
@@ -353,6 +354,18 @@
           "time_info": "07时32分"
         },
         {
+          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
+          "url": "https://www.cls.cn/detail/2335621",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 18时54分]"
+        },
+        {
           "title": "伊朗军方：特朗普和美军遭遇的尴尬难以补救",
           "url": "https://wallstreetcn.com/livenews/3082709",
           "source": "华尔街见闻-快讯",
@@ -362,6 +375,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
+          "url": "https://wallstreetcn.com/articles/3769302",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 18时54分]"
         },
         {
           "title": "据CNN：美国总统特朗普已经返回白宫。",
@@ -405,16 +430,18 @@
           "time_info": "[10时12分 ~ 17时06分]"
         },
         {
-          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
-          "url": "https://www.cls.cn/detail/2335621",
-          "source": "财联社热门",
+          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            12
+            19,
+            16,
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时12分 ~ 17时06分]"
+          "time_info": "[13时22分 ~ 18时54分]"
         },
         {
           "title": "特朗普：相信能在6日之前与伊朗达成协议",
@@ -430,16 +457,16 @@
           "time_info": "[00时34分 ~ 04时31分]"
         },
         {
-          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
-          "url": "https://wallstreetcn.com/articles/3769302",
-          "source": "华尔街见闻",
+          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
+          "url": "https://www.cls.cn/detail/2335633",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            7
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时22分 ~ 17时06分]"
+          "time_info": "[15时26分 ~ 18时54分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普表示，美国最初担心被击落的F-15战机上被困机组人员传来的信息是伊朗人设下的圈套，目的是引诱美军落入陷阱。",
@@ -488,31 +515,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时29分]"
-        },
-        {
-          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 17时06分]"
-        },
-        {
-          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
-          "url": "https://www.cls.cn/detail/2335633",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时06分]"
         },
         {
           "title": "据ABC新闻：美国总统特朗普表示，北约就是纸老虎，纸老虎。他们没有船，什么都没有，普京对他们毫无畏惧。",
@@ -576,6 +578,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时32分]"
+        },
+        {
+          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
+          "url": "https://www.cls.cn/detail/2335649",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 18时54分]"
         },
         {
           "title": "美媒对于特朗普给出的伊朗“时间线”的报道存在偏差",
@@ -670,6 +684,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-06）",
+          "url": "https://flash.jin10.com/detail/20260406182339244800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "伊朗军方：特朗普和美军遭遇的尴尬难以补救",
           "url": "https://flash.jin10.com/detail/20260406093713440800",
           "source": "金十数据",
@@ -701,17 +726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
-          "url": "https://www.cls.cn/detail/2335649",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
         },
         {
           "title": "特朗普披露“营救行动”更多细节，称第二名机组人员“身受重伤”",
@@ -813,6 +827,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "专家：特朗普严重践踏国际法",
+          "url": "https://www.toutiao.com/trending/7624815817067380777/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "国际特赦组织负责人：特朗普言论令人愤慨",
           "url": "https://flash.jin10.com/detail/20260405231630402800",
           "source": "金十数据",
@@ -835,6 +860,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "克里姆林宫：（就特朗普对伊朗的脏话威胁）紧张局势持续升级。",
+          "url": "https://flash.jin10.com/detail/20260406175132637800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "特朗普称被击落战机的第二名机组人员“身受重伤”",
           "url": "https://wallstreetcn.com/livenews/3082637",
           "source": "华尔街见闻-快讯",
@@ -844,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "伊朗回应特朗普轰炸威胁：继续封锁",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%B0%E7%82%B8%E5%A8%81%E8%83%81%EF%BC%9A%E7%BB%A7%E7%BB%AD%E5%B0%81%E9%94%81",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     },
@@ -856,11 +903,12 @@
           "url": "https://wallstreetcn.com/livenews/3082776",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 18时54分]"
         },
         {
           "title": "美股期货周一亚市盘初走低，标普500指数期货跌0.4%。",
@@ -881,7 +929,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -903,7 +951,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -914,7 +962,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -925,7 +973,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -944,7 +992,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
@@ -957,6 +1005,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时32分]"
+        },
+        {
+          "title": "OpenAI发布文章 提出AI时代产业政策建议",
+          "url": "https://flash.jin10.com/detail/20260406183015530800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
@@ -994,7 +1053,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         }
@@ -1027,11 +1086,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 17时06分]"
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 18时54分]"
         }
       ]
     },
