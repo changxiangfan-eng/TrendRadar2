@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T20:36:32.730919+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2026-04-15T21:23:15.945811+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -18,8 +18,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[10时11分 ~ 21时23分]"
+        },
+        {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时11分 ~ 21时23分]"
         },
         {
           "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
@@ -83,20 +100,16 @@
           "time_info": "[15时28分 ~ 20时36分]"
         },
         {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            8,
-            7,
-            6,
-            4,
-            3
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 20时36分]"
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 21时23分]"
         },
         {
           "title": "特朗普：美国对伊朗的战争已经结束",
@@ -200,17 +213,6 @@
           "time_info": "18时57分"
         },
         {
-          "title": "“新美联储通讯社”Nick Timiraos：特朗普与美联储之间可能还会爆发第三次法庭之争。截至目前，政府方面在传唤相关人员以及解雇Lisa Cook方面均未取得成功。",
-          "url": "https://wallstreetcn.com/livenews/3088515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "特朗普说伊朗没牌了遭北约盟友打脸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -234,6 +236,41 @@
           "time_info": "07时40分"
         },
         {
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://news.ifeng.com/c/8sLS5AcutoB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 21时23分]"
+        },
+        {
+          "title": "特朗普：若美联储主席鲍威尔任期届满后仍留任 将对其解职",
+          "url": "https://wallstreetcn.com/livenews/3088541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 21时23分]"
+        },
+        {
           "title": "关税退款将启动 特朗普一年白忙了吗",
           "url": "https://www.toutiao.com/trending/7628891722524659242/",
           "source": "今日头条",
@@ -243,17 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
-        },
-        {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
@@ -281,6 +307,18 @@
           "time_info": "[05时50分 ~ 07时40分]"
         },
         {
+          "title": "“新美联储通讯社”Nick Timiraos：特朗普与美联储之间可能还会爆发第三次法庭之争。截至目前，政府方面在传唤相关人员以及解雇Lisa Cook方面均未取得成功。",
+          "url": "https://wallstreetcn.com/livenews/3088515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时23分]"
+        },
+        {
           "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
           "url": "https://flash.jin10.com/detail/20260415063058322800",
           "source": "金十数据",
@@ -293,28 +331,16 @@
           "time_info": "[06时52分 ~ 07时40分]"
         },
         {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://news.ifeng.com/c/8sLS5AcutoB",
-          "source": "凤凰网",
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 20时36分]"
-        },
-        {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时23分]"
         },
         {
           "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
@@ -327,6 +353,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普称有能力在“一小时内”摧毁伊朗的桥梁和发电厂",
+          "url": "https://wallstreetcn.com/livenews/3088510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时23分]"
+        },
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
         },
         {
           "title": "英媒：特朗普次子将以个人身份陪同访华",
@@ -350,28 +399,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 02时03分]"
-        },
-        {
-          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 20时36分]"
-        },
-        {
-          "title": "特朗普称有能力在“一小时内”摧毁伊朗的桥梁和发电厂",
-          "url": "https://wallstreetcn.com/livenews/3088510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "白宫告知华盛顿邮报，特朗普保留“所有选项”。",
@@ -512,7 +539,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -545,7 +572,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -589,7 +616,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -640,8 +667,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时22分 ~ 20时36分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 21时23分]"
         },
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -723,6 +750,18 @@
           "time_info": "[06时51分 ~ 07时40分]"
         },
         {
+          "title": "美军大举增兵中东，美股期指跌幅扩大，黄金失守4790美元，布油涨超2%",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 21时23分]"
+        },
+        {
           "title": "美股收盘：中概股集体大涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
           "source": "百度热搜",
@@ -732,17 +771,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "美军大举增兵中东，美股期指跌幅扩大，黄金失守4790美元，布油涨超2%",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "10年期美债收益率跌超4个基点，美股开盘以来持续走低",
@@ -762,7 +790,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -814,7 +842,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
@@ -827,6 +855,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时52分]"
+        },
+        {
+          "title": "OpenAI 开撕 Anthropic 称 300 亿收入有 80 亿是造假，如何看待当前两家 AI 巨头的竞争？",
+          "url": "https://www.zhihu.com/question/2027692500500969204",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
         },
         {
           "title": "微软接手OpenAI挪威数据中心租约",
@@ -951,9 +990,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 21时23分]"
         }
       ]
     },
