@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T15:29:04.455029+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-04-16T17:17:11.543654+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 15时29分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 17时17分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -132,6 +132,29 @@
           "time_info": "[01时01分 ~ 10时27分]"
         },
         {
+          "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
           "url": "https://www.cls.cn/detail/2344964",
           "source": "财联社热门",
@@ -150,7 +173,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -172,7 +195,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -200,18 +223,6 @@
           "time_info": "04时02分"
         },
         {
-          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
-          "url": "https://wallstreetcn.com/articles/3770050",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 15时29分]"
-        },
-        {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
           "url": "https://www.cls.cn/detail/2345555",
           "source": "财联社热门",
@@ -222,6 +233,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时29分 ~ 15时29分]"
+        },
+        {
+          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
+          "url": "https://www.cls.cn/detail/2346178",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普“封锁令”影响几何？分析：若石油出口完全断流 伊朗最多两月后须减产！",
+          "url": "https://www.cls.cn/detail/2345809",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "【美国参议院投票否决旨在限制特朗普对伊战争权力的动议】4月15日，美国参议院多数议员对美国总统特朗普针对伊朗的军事行动表示支持。参议院以52票对47票，投票否决了一项由民主党主导的决议。该决议旨在阻止战争，直至敌对行动获得国会授权。（央视）",
@@ -337,7 +392,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -393,11 +448,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 17时17分]"
+        },
+        {
+          "title": "存储巨头定档今夏美股上市！最多募资100亿美元",
+          "url": "https://www.cls.cn/detail/2345773",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
@@ -575,11 +642,12 @@
             8,
             20,
             10,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 15时29分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 17时17分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
