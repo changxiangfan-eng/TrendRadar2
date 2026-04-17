@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T18:54:26.284967+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-04-17T19:51:31.227032+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -34,6 +34,18 @@
           "time_info": "[00时21分 ~ 17时15分]"
         },
         {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 19时51分]"
+        },
+        {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
           "url": "https://wallstreetcn.com/articles/3770081",
           "source": "华尔街见闻",
@@ -44,18 +56,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 06时38分]"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 18时54分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -196,6 +196,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 19时51分]"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗）不确定停火是否需要延长。",
           "url": "https://flash.jin10.com/detail/20260417015756053800",
           "source": "金十数据",
@@ -242,17 +253,6 @@
           "time_info": "[06时04分 ~ 07时39分]"
         },
         {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 18时54分]"
-        },
-        {
           "title": "美国总统特朗普：农场法案将会通过。",
           "url": "https://flash.jin10.com/detail/20260417052400767800",
           "source": "金十数据",
@@ -297,6 +297,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 18时54分]"
+        },
+        {
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时51分]"
         },
         {
           "title": "美国总统特朗普：意大利没有支持我们，我们也不会支持他们。",
@@ -359,6 +370,17 @@
           "time_info": "[03时59分 ~ 04时55分]"
         },
         {
+          "title": "伊朗战争丨美媒：急于结束伊朗战争，特朗普准备让步",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "美国总统特朗普：教皇利奥理解伊朗对世界构成威胁非常重要。",
           "url": "https://flash.jin10.com/detail/20260417015720960800",
           "source": "金十数据",
@@ -379,17 +401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
-        },
-        {
-          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
-          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）正在取得很大进展。",
@@ -442,7 +453,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -563,7 +574,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -670,8 +681,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 19时51分]"
+        },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
           "url": "https://wallstreetcn.com/articles/3770123",
@@ -685,17 +707,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 13时26分]"
-        },
-        {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 18时54分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -748,6 +759,17 @@
           "time_info": "[06时04分 ~ 07时39分]"
         },
         {
+          "title": "高盛：若无货币政策支持美股涨势或难持续",
+          "url": "https://flash.jin10.com/detail/20260417192344297800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
           "url": "https://www.cls.cn/detail/2347485",
           "source": "财联社热门",
@@ -756,8 +778,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时51分]"
         },
         {
           "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
@@ -769,6 +791,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时24分 ~ 18时54分]"
+        },
+        {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 19时51分]"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -797,18 +831,6 @@
           "time_info": "[04时55分 ~ 06时38分]"
         },
         {
-          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
-          "url": "https://www.cls.cn/detail/2346971",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 18时54分]"
-        },
-        {
           "title": "美股收盘：百度涨超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%853%25",
           "source": "百度热搜",
@@ -830,6 +852,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 06时04分]"
+        },
+        {
+          "title": "狂欢or陷阱：美股创新高有何异常？ 丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260417192003659800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.01%，报617.33点。 欧元区STOXX 50指数初步收平，报5940.00点，美股开盘之后显著跳水。 富时泛欧绩优300指数初步收跌0.06%，报2458.30点。",
