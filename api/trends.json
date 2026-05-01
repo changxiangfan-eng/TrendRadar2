@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T10:48:51.047725+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-05-01T16:59:50.210179+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -45,6 +45,21 @@
           "time_info": "[01时50分 ~ 05时59分]"
         },
         {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时58分 ~ 16时59分]"
+        },
+        {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
           "source": "澎湃新闻",
@@ -71,20 +86,6 @@
           "time_info": "[01时50分 ~ 10时48分]"
         },
         {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时58分 ~ 10时48分]"
-        },
-        {
           "title": "还是不解气，特朗普又炮轰默茨",
           "url": "https://news.ifeng.com/c/8skrGhZKZnd",
           "source": "凤凰网",
@@ -106,6 +107,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时50分 ~ 07时55分]"
+        },
+        {
+          "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
+          "url": "https://news.ifeng.com/c/8slb2E7L4ao",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "美国总统特朗普签署联邦合同相关命令。",
@@ -246,6 +258,18 @@
           "time_info": "[05时59分 ~ 06时58分]"
         },
         {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 16时59分]"
+        },
+        {
           "title": "特朗普：不在乎鲍威尔是否留任理事",
           "url": "https://flash.jin10.com/detail/20260501051602569800",
           "source": "金十数据",
@@ -306,6 +330,17 @@
           "time_info": "[06时58分 ~ 07时55分]"
         },
         {
+          "title": "伊朗战争丨特朗普晒图：霍尔木兹海峡被更名为“特朗普海峡”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "市场消息：美国总统特朗普举行新闻发布会时吹嘘大选以来股市的上涨。",
           "url": "https://flash.jin10.com/detail/20260501025252974800",
           "source": "金十数据",
@@ -317,15 +352,15 @@
           "time_info": "03时17分"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "16时59分"
         },
         {
           "title": "美国众议院投票，批准对国土安全部（DHS）预算拨款的主要条款，草案将移交给总统特朗普（签字为法律）。",
@@ -482,6 +517,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "特朗普称美国结束对伊朗战争",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "美国总统特朗普致电伊拉克总理提名人阿里·扎伊迪，邀请他在组建新政府后前往华盛顿。",
           "url": "https://flash.jin10.com/detail/20260501021036394800",
           "source": "金十数据",
@@ -499,7 +545,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -562,7 +608,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -729,6 +775,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "在Q1财报发布后，Rivian(RIVN.O)美股盘前跌4.3%。",
+          "url": "https://flash.jin10.com/detail/20260501160813040800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。 第二财季产品营收802.1亿美元，分析师预期81.3亿美元。 第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元；iPhone 17“需求极其强劲”。 第二财季iPad营收69.1亿美元，分析师预期66.5亿美元。 第二财季Mac营收84亿美元，分析师预期81.3亿美元。 第二财季可穿戴设备、居家、周边营收79亿美元，分析师预期77.2亿美元。 第二财季服务营收309.8亿美元，分析师预期303.7亿美元。 第二财季美国营收450.9亿美元，分析师预期458.2亿美元。 第二财季大中华区营收205亿美元，分析师预期189.1亿美元。 第二财季每股收益（EPS）为2.01美元，分析师预期1.96美元。 苹果美股盘后涨0.6%，瞬间转而跌超1.2%，随后又迅速转而涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3097708",
           "source": "华尔街见闻-快讯",
@@ -740,21 +797,43 @@
           "time_info": "05时59分"
         },
         {
+          "title": "美股盘前 闪迪跌约5%、西部数据跌约7%",
+          "url": "https://flash.jin10.com/detail/20260501160345664800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "新闻交易员：油价都三位数了，美股还在笑，究竟谁在扛雷？",
           "url": "https://flash.jin10.com/detail/20260501084240798800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "美股盘前，闪迪跌约5%，西部数据跌约7%，苹果涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3097821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -778,8 +857,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 16时59分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -802,8 +881,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 16时59分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -834,11 +913,23 @@
           "url": "https://www.zhihu.com/question/2033115543276930640",
           "source": "知乎",
           "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 16时59分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "16时59分"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -888,7 +979,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -896,11 +987,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时50分 ~ 10时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时50分 ~ 16时59分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -939,6 +1031,17 @@
           "time_info": "[01时50分 ~ 04时58分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "DeepSeek思考过程好萌",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -948,6 +1051,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "DeepSeek梦话大赏",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
@@ -974,7 +1088,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -1041,7 +1155,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
