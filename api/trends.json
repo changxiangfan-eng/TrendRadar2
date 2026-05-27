@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T16:02:35.766319+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-05-27T23:35:07.695845+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -34,13 +34,24 @@
           "time_info": "[11时31分 ~ 16时02分]"
         },
         {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时34分 ~ 23时35分]"
+        },
+        {
           "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
           "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
           "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -135,6 +146,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "土耳其总统埃尔多安称希望在足球世界杯期间与特朗普会面，讨论北约问题。",
+          "url": "https://flash.jin10.com/detail/20260527224805887800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
           "url": "https://wallstreetcn.com/livenews/3109650",
           "source": "华尔街见闻-快讯",
@@ -201,6 +223,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "泽连斯基致信特朗普：乌克兰面临严峻的防空物资短缺",
+          "url": "https://flash.jin10.com/detail/20260527221655114800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "特朗普将27日内阁会议地点改回白宫",
           "url": "https://wallstreetcn.com/livenews/3109658",
           "source": "华尔街见闻-快讯",
@@ -248,7 +281,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -271,6 +304,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 16时02分]"
+        },
+        {
+          "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时34分 ~ 23时35分]"
         },
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -297,6 +341,17 @@
           "time_info": "[07时08分 ~ 11时32分]"
         },
         {
+          "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2383334",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时34分 ~ 23时35分]"
+        },
+        {
           "title": "美股芯片股盘前集体上涨",
           "url": "https://www.toutiao.com/trending/7643860213912764422/",
           "source": "今日头条",
@@ -306,6 +361,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "标普500指数是否已进入泡沫区间？资深策略师：美股这波行情靠的是盈利",
+          "url": "https://flash.jin10.com/detail/20260527225234355800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -347,7 +413,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
