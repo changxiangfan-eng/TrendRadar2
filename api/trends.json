@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-25T19:41:19.730310+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-06-25T22:26:41.387698+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 22时26分]"
+        },
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
           "url": "https://news.ifeng.com/c/8uDgRGX21RF",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 08时09分]"
-        },
-        {
-          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
-          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 19时41分]"
         },
         {
           "title": "美国总统特朗普：（关于包括运输费用在内的伊朗协议）将是不可接受的。",
@@ -72,7 +72,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -184,22 +184,24 @@
           "ranks": [
             19,
             14,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 22时26分]"
         },
         {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
           "url": "https://www.cls.cn/detail/2408936",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 22时26分]"
         },
         {
           "title": "特朗普称英国首相热门人选伯纳姆“可能”不会开放北海油田",
@@ -243,7 +245,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -441,7 +443,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -534,6 +536,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "美国白宫：特朗普将于7月3日出席在拉什莫尔山的活动。",
+          "url": "https://wallstreetcn.com/livenews/3124705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美国总统特朗普：埃克森美孚、雪佛龙等公司因天然气价格飙升而受到调查。",
           "url": "https://flash.jin10.com/detail/20260625044934072800",
           "source": "金十数据",
@@ -592,7 +605,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -703,6 +716,17 @@
           "time_info": "[05时05分 ~ 06时15分]"
         },
         {
+          "title": "经济数据提振，美股开盘走高，存储板块大涨，美光上涨17%，黄金重回4000，白银转涨",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
           "url": "https://wallstreetcn.com/livenews/3124250",
           "source": "华尔街见闻-快讯",
@@ -720,7 +744,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -747,6 +771,17 @@
           "time_info": "16时57分"
         },
         {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨近5%，全球科技股指数ETF涨近3%，科技行业ETF涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3124716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美光科技盘后大涨近14%，带飞美股芯片股",
           "url": "https://flash.jin10.com/detail/20260625042822342800",
           "source": "金十数据",
@@ -756,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.9%，费城半导体指数涨超5%，美光科技涨约17%",
+          "url": "https://wallstreetcn.com/livenews/3124712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
@@ -769,21 +815,43 @@
           "time_info": "05时05分"
         },
         {
+          "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260625214119572800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "SpaceX美股盘前扩大涨势，现上涨2.4%。",
           "url": "https://wallstreetcn.com/livenews/3124608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3124699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -797,6 +865,18 @@
           "time_info": "02时50分"
         },
         {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 22时26分]"
+        },
+        {
           "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
           "url": "https://flash.jin10.com/detail/20260625022949974800",
           "source": "金十数据",
@@ -806,17 +886,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
-        },
-        {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
         },
         {
           "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
@@ -841,6 +910,17 @@
           "time_info": "16时57分"
         },
         {
+          "title": "谷歌正对新的AI编码工具“突击队”进行重组",
+          "url": "https://wallstreetcn.com/livenews/3124704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
           "url": "https://wallstreetcn.com/livenews/3124168",
           "source": "华尔街见闻-快讯",
@@ -850,6 +930,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "美元指数DXY短线走低十余点，报101.38。非美货币短线上扬。",
+          "url": "https://flash.jin10.com/detail/20260625220528496800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "彭博美元指数跌0.3%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3124728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
+          "url": "https://wallstreetcn.com/livenews/3124210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek发布招聘广告：正努力将所有部门的规模扩大至少一倍",
+          "url": "https://wallstreetcn.com/livenews/3124723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "DeepSeek发布招聘广告：正努力将所有部门的规模扩大至少一倍",
+          "url": "https://flash.jin10.com/detail/20260625215747135800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
@@ -878,34 +1036,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
-          "url": "https://wallstreetcn.com/livenews/3124210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
         }
       ]
     }
