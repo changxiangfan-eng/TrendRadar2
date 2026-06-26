@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T11:25:13.045234+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-06-26T15:49:30.034071+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,18 @@
           "time_info": "[05时42分 ~ 07时16分]"
         },
         {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 15时49分]"
+        },
+        {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
           "url": "https://www.cls.cn/detail/2408936",
           "source": "财联社热门",
@@ -88,17 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 07时16分]"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
@@ -182,8 +183,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 15时49分]"
         },
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -193,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 15时49分]"
         },
         {
           "title": "美股",
@@ -307,7 +308,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
@@ -442,11 +443,12 @@
           "url": "https://www.zhihu.com/question/2052444159282082405",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 15时49分]"
         },
         {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
@@ -495,8 +497,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 15时49分]"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 15时49分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -504,17 +518,6 @@
           "source": "微博",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
