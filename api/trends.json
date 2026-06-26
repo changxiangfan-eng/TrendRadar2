@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T15:49:30.034071+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-06-26T18:49:14.520996+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -114,6 +114,17 @@
           "time_info": "[05时42分 ~ 07时16分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-26）",
+          "url": "https://flash.jin10.com/detail/20260626181839754800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "特朗普政府周三通知国会，将向土耳其出售价值7亿美元的喷气发动机。",
           "url": "https://flash.jin10.com/detail/20260626055515833800",
           "source": "金十数据",
@@ -172,7 +183,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -210,6 +221,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时10分 ~ 07时16分]"
+        },
+        {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
@@ -506,11 +528,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 18时49分]"
         },
         {
           "title": "DeepSeek大规模招聘",
