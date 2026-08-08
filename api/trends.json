@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:47:17.553014+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-08-08T16:37:08.779117+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 15时47分]"
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 16时37分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 16时37分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -43,21 +56,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时51分 ~ 15时47分]"
-        },
-        {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 15时47分]"
+          "appearance_count": 16,
+          "time_info": "[03时51分 ~ 16时37分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 16时37分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -442,8 +442,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 16时37分]"
+        },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
           "url": "https://wallstreetcn.com/articles/3778821",
@@ -477,8 +490,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 15时47分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 16时37分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -491,21 +504,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时32分 ~ 15时47分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 15时47分]"
+          "appearance_count": 12,
+          "time_info": "[06时32分 ~ 16时37分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -572,6 +572,17 @@
           "time_info": "[05时16分 ~ 09时19分]"
         },
         {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
           "url": "https://flash.jin10.com/detail/20260808040100140800",
           "source": "金十数据",
@@ -631,11 +642,12 @@
           "ranks": [
             5,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 15时47分]"
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 16时37分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -649,8 +661,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时51分 ~ 15时47分]"
+          "appearance_count": 16,
+          "time_info": "[03时51分 ~ 16时37分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -723,11 +735,12 @@
             17,
             20,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 15时47分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 16时37分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
