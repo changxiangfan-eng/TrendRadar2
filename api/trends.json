@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T11:41:54.951767+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-08-11T13:05:37.787468+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -86,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 13时05分]"
         },
         {
           "title": "特朗普否认华尔街日报关于他与沃什谈话的报道，称：我非常尊重美联储主席沃什。 几天前还曾与沃什短暂对话过一次。 自从沃什接任美联储主席以来，和他谈过一次。",
@@ -121,6 +121,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 13时05分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
@@ -173,18 +185,6 @@
           "time_info": "[03时54分 ~ 04时39分]"
         },
         {
-          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 11时41分]"
-        },
-        {
           "title": "美国总统特朗普签署关于疫苗推荐的命令。",
           "url": "https://wallstreetcn.com/livenews/3147671",
           "source": "华尔街见闻-快讯",
@@ -232,6 +232,40 @@
           "time_info": "[00时55分 ~ 01时50分]"
         },
         {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 13时05分]"
+        },
+        {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 13时05分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 13时05分]"
+        },
+        {
           "title": "美国总统特朗普：几天前与美联储主席沃什通话。",
           "url": "https://flash.jin10.com/detail/20260811033643002800",
           "source": "金十数据",
@@ -254,17 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时50分]"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 11时41分]"
         },
         {
           "title": "美国总统特朗普：只有美国才能控制霍尔木兹海峡。",
@@ -351,17 +374,6 @@
           "time_info": "[00时56分 ~ 01时50分]"
         },
         {
-          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
-          "url": "https://www.cls.cn/detail/2450675",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 11时41分]"
-        },
-        {
           "title": "美国总统特朗普：（当被问及伊朗战争接下来会发生什么时）你们很快就会知道了。",
           "url": "https://flash.jin10.com/detail/20260811032829058800",
           "source": "金十数据",
@@ -372,6 +384,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 04时39分]"
+        },
+        {
+          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
+          "url": "https://wallstreetcn.com/livenews/3147809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 13时05分]"
         },
         {
           "title": "美国总统特朗普宣布“美国疫苗推荐”。 特朗普声称：政府仅认可 11 种核心疫苗的儿童接种建议。 不再建议所有儿童接种乙肝、新冠、流感等疫苗。",
@@ -420,17 +444,6 @@
           "time_info": "01时50分"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "特朗普：自从沃什接任美联储主席以来，和他谈过一次",
           "url": "https://wallstreetcn.com/livenews/3147674",
           "source": "华尔街见闻-快讯",
@@ -442,6 +455,17 @@
           "time_info": "04时39分"
         },
         {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "特朗普称自沃什履新以来仅与其短暂交谈一次 否认频繁沟通",
           "url": "https://flash.jin10.com/detail/20260811042819105800",
           "source": "金十数据",
@@ -451,17 +475,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
-        },
-        {
-          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
-          "url": "https://wallstreetcn.com/livenews/3147809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "美国总统特朗普：武器化基金的未来将由司法部长布兰奇决定。",
@@ -780,11 +793,12 @@
           "ranks": [
             8,
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时34分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[06时34分 ~ 13时05分]"
         },
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -794,8 +808,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 13时05分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -818,8 +832,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 13时05分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
