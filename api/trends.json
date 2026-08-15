@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T06:19:46.572209+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-08-15T09:03:35.885569+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时03分]"
         },
         {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时50分 ~ 06时19分]"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "特朗普称将宣布霍尔木兹为“美国领土”",
+          "url": "https://www.toutiao.com/trending/7673394710149267497/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
@@ -116,6 +138,18 @@
           "time_info": "[03时46分 ~ 04时28分]"
         },
         {
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "url": "https://wallstreetcn.com/livenews/3149885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 09时03分]"
+        },
+        {
           "title": "特朗普料将出席白宫预测市场会议",
           "url": "https://wallstreetcn.com/livenews/3149855",
           "source": "华尔街见闻-快讯",
@@ -128,6 +162,18 @@
           "time_info": "[03时46分 ~ 04时28分]"
         },
         {
+          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
+          "url": "https://flash.jin10.com/detail/20260815050235011800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 09时03分]"
+        },
+        {
           "title": "美国总统特朗普：对伊朗的封锁势不可挡，封锁是一道钢铁之墙。",
           "url": "https://flash.jin10.com/detail/20260815035842401800",
           "source": "金十数据",
@@ -137,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "市场消息：美国总统特朗普抵达马里兰州安德鲁斯联合基地。",
@@ -172,17 +229,6 @@
           "time_info": "04时28分"
         },
         {
-          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
-          "url": "https://wallstreetcn.com/livenews/3149885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
           "title": "美国总统特朗普：我们不会允许伊朗继续所作所为 。",
           "url": "https://flash.jin10.com/detail/20260815035651937800",
           "source": "金十数据",
@@ -216,6 +262,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我很快将宣布霍尔木兹海峡为美国领土。",
           "url": "https://flash.jin10.com/detail/20260815035358450800",
           "source": "金十数据",
@@ -225,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://wallstreetcn.com/livenews/3149900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "美国总统特朗普：我们通过关税赚了很多钱。",
@@ -238,24 +306,13 @@
           "time_info": "04时28分"
         },
         {
-          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
-          "url": "https://flash.jin10.com/detail/20260815050235011800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
           "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
           "url": "https://wallstreetcn.com/livenews/3149874",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -274,7 +331,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -287,6 +344,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 06时19分]"
+        },
+        {
+          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "美股收盘：三大股指低收 博通跌近6%",
@@ -346,6 +414,17 @@
           "time_info": "[00时51分 ~ 01时51分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "美股三大指数集体走低，标普500指数跌0.23%，纳斯达克指数跌0.45%，道琼斯指数跌0.26%。",
           "url": "https://flash.jin10.com/detail/20260815005734260800",
           "source": "金十数据",
@@ -363,18 +442,16 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
             9,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时03分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -385,19 +462,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时03分]"
         },
         {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
-          "source": "华尔街见闻",
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            8,
+            6,
+            9,
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时03分]"
         }
       ]
     },
@@ -423,7 +504,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -434,9 +515,48 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时03分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3149812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     },
@@ -462,34 +582,6 @@
           "source": "金十数据",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时19分]"
-        },
-        {
-          "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3149812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
